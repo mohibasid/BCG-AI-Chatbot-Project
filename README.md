@@ -22,6 +22,7 @@ The simulation was divided into two main tasks:
 ## Project Structure
 
 bcg-genai-chatbot/
+
 ├── BCGDataAnalysis.ipynb # Financial analysis of Microsoft's filings (Task 1)
 └── chatbot.py # Rule-based AI chatbot for answering financial queries (Task 2)
 
