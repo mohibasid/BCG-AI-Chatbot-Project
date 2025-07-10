@@ -29,7 +29,7 @@ bcg-genai-chatbot/
 
 
 
-## 💬 Supported Chatbot Queries
+## Supported Chatbot Queries
 
 The chatbot can answer the following predefined financial questions:
 
@@ -44,7 +44,7 @@ All other inputs return a fallback message:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to simulate a chatbot using rule-based logic (`if-else` structure)
 - How to turn raw financial data into actionable, conversational insights
@@ -52,7 +52,7 @@ All other inputs return a fallback message:
 
 ---
 
-## 🚫 Limitations
+## Limitations
 
 - No NLP or AI model integration (only exact-match rule-based logic)
 - Chatbot only recognizes predefined queries with exact wording
@@ -60,7 +60,7 @@ All other inputs return a fallback message:
 
 ---
 
-## 🔗 Credit
+## Credit
 
 This project was completed independently as part of the **BCG GenAI Simulation** via [Forage](https://www.theforage.com/simulations/bcg/gen-ai-anlo).  
 All analysis and code were created based on the scenario brief provided.
