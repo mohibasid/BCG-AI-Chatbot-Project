@@ -1,6 +1,6 @@
 # BCG X GenAI - Financial Chatbot Project
 
-Project Overview
+## Project Overview
 
 The simulation was divided into two main tasks:
 
